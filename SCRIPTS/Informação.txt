@@ -1,0 +1,2 @@
+Os Scripts devem ser corridas pela seguinte ordem:
+criar.sql -> popular.sql -> total_produtos e todos os outros
